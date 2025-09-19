@@ -1,0 +1,3 @@
+1. To create a package.json file, run the command : npm init -y
+2. For installing dev dependencies, run the command: npm i --save-dev package-name1 pkg-name2 etc.
+3. For installing dependencies, run the command: npm i --save package-name package-name1 pkg-name2 etc.
